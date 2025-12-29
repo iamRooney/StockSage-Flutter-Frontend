@@ -9,14 +9,15 @@ This repository contains the frontend implementation only,
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/Dashboard.png)
 
 ### News
-![News](screenshots/news.png)
+![News](screenshots/News.png)
 
 ### Search
-![Search](screenshots/search.png)
+![Search](screenshots/Search.png)
 
 ### Insights
-![Insights](screenshots/insight1.png)
+![Insights](screenshots/Insight1.png)
+
 
