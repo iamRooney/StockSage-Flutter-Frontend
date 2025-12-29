@@ -18,4 +18,5 @@ This repository contains the frontend implementation only,
 ![Search](screenshots/search.png)
 
 ### Insights
-![Insights](screenshots/insights.png)
+![Insights](screenshots/insight1.png)
+
